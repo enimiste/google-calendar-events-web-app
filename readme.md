@@ -9,7 +9,7 @@ In this repository i commit results from following this tutorial : [Link](https:
 - XAMPP
 
 ## Features :
-- List events from Google Calendar
+- List events from Google Calendar : Done
 - Update an event on google Calendar from my web application
 - Delete an event
 - Create a new event from my web application
